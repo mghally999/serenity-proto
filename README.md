@@ -2,16 +2,16 @@
 
   <img src="./public/logo-dark.png" alt="logo" width="90" height="auto">
 
-  <h2>Green Serenity - Prototype</h2>
+  <h2>Serenity - Prototype</h2>
 
   <h3>
-    <a href="https://greenserenity-demo.netlify.app">
+    <a href="https://serenity-demo.netlify.app">
       <strong>Demo Website</strong>
     </a>
   </h3>
 
   <div align="center">
-    <a href="https://greenserenity-demo.netlify.app">View Demo</a>
+    <a href="https://serenity-demo.netlify.app">View Demo</a>
 
   </div>
 
@@ -21,11 +21,11 @@
 
 <!-- Brief -->
 <p align="center">
---Green Serenity is a small, healthy dining spot catering to nutrition and fitness enthusiasts who exclusively choose healthy foods where users can order one or more healthy meals recommendations based on their BMR calculator and personal preferences which enables them to save time and money.
+--Serenity is a small, healthy dining spot catering to nutrition and fitness enthusiasts who exclusively choose healthy foods where users can order one or more healthy meals recommendations based on their BMR calculator and personal preferences which enables them to save time and money.
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://greenserenity-demo.netlify.app">
+<a align="center" href="https://serenity-demo.netlify.app">
 
 ![Screenshot](./public/thumbnail-preview.png)
 
@@ -49,7 +49,7 @@
 - Clone this repo:
 
 ```sh
-git clone https://github.com/mghally999/green-serenity-proto.git
+git clone https://github.com/mghally999/serenity-proto.git
 ```
 
 - Install dependencies:
