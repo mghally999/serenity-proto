@@ -1,0 +1,51 @@
+@import "../../../partials/manifest.scss";
+// mobile first
+.Landing {
+  display: flex;
+  flex-flow: row wrap;
+  min-height: 85vh;
+  text-align: center;
+}
+.Landing__banner,
+.Landing__data {
+  flex: 1;
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 1rem;
+}
+.Landing__banner {
+  background: url(https://media.istockphoto.com/id/635912088/photo/pumpkin-salad.jpg?s=612x612&w=0&k=20&c=uRdmvjO16WsPFPV7GTWbxq6NUQuPBkv4gRJdtfZodzY=);
+  background-repeat: no-repeat;
+  background-size: cover;
+  &__heading {
+    margin: auto;
+    font-family: $heading-font--cursive;
+    color: white;
+  }
+}
+.Landing__data {
+  flex: 100%;
+  background: url("../../../assets/landing/landing-pattern.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  &__content {
+    margin: auto;
+    font-family: $subHeading-font--serif;
+    color: $asphalt;
+    ul {
+      margin-bottom: 3%;
+      li {
+        padding: 0.71rem;
+      }
+    }
+  }
+}
+//larger screens
+@media (min-width: 900px) {
+  .Landing__banner__heading {
+    font-size: 3rem;
+  }
+  .Landing__data {
+    flex: 1;
+  }
+}

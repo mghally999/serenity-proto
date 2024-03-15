@@ -1,0 +1,15 @@
+@import "../../../partials/manifest.scss";
+.Nav {
+  border-bottom: solid 1px $silver;
+  padding: 0 1rem;
+}
+
+@media (max-width: 626px) {
+  .Nav {
+    padding: 0;
+  }
+}
+.Nav__button {
+  font-family: $nunito;
+  color: $asphalt;
+}

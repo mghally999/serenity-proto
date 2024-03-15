@@ -1,0 +1,21 @@
+.Checkbox {
+  border-radius: 0;
+  cursor: pointer;
+}
+
+.radio-container {
+  // white-space: nowrap;
+  margin-bottom: 1rem;
+}
+
+label {
+  display: inline-block;
+  vertical-align: middle;
+  width: calc(100% - 30px);
+}
+
+.Checkbox__label {
+  display: inline-block; /* Display label inline */
+  vertical-align: middle; /* Align label vertically */
+  width: calc(100% - 30px); /* Adjust label width to accommodate checkbox */
+}

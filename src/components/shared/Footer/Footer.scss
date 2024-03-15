@@ -1,0 +1,24 @@
+@import "../../../partials/manifest.scss";
+.Footer {
+  display: flex;
+  flex-flow: row wrap;
+  font-size: 1rem;
+  // padding: 1rem;
+  color: $asphalt;
+  margin: auto;
+  justify-content: center;
+  font-weight: 600;
+  margin-top: 2rem !important;
+}
+@media (max-width: 626px) {
+  .Footer {
+    font-size: 0.8rem;
+    padding: 0 2rem;
+  }
+}
+.Footer__icon {
+  color: $hotpink;
+}
+.Footer__link {
+  color: $hotpink;
+}
