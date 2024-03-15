@@ -7,8 +7,8 @@ const surveyData = {
   },
   dietSpec: [
     { name: "balanced", text: "Balanced Diet (Recommended)" },
-    { name: "low-carb", text: "Low-Carb (Less than 20% of total calories from carbs)" },
-    { name: "low-fat", text: "Low-Fat (Less than 15% of total calories from fat)" },
+    { name: "low-carb", text: "Low-Carb (Less than 20%)" },
+    { name: "low-fat", text: "Low-Fat (Less than 15%%)" },
   ],
   healthSpec: [
     { name: "vegan", text: "Vegan (No meat, poultry, fish)" },
