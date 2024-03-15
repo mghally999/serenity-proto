@@ -1,11 +1,11 @@
 <div align="center">
 
 <<<<<<< HEAD
-  <img src="./public/logo-dark.png" alt="logo" width="90" height="auto">
+<img src="./public/logo-dark.png" alt="logo" width="90" height="auto">
+
+# <h2>Serenity - Prototype</h2>
 
   <h2>Serenity - Prototype</h2>
-=======
-  <h2>Green Serenity - Prototype</h2>
 >>>>>>> 69834d2eec61c3e2d09151f924ef89138c026ee7
 
   <h3>
