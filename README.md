@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="./public/logo-dark.png" alt="logo" width="90" height="auto">
-
   <h2>Green Serenity - Prototype</h2>
 
   <h3>
